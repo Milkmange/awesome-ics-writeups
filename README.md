@@ -83,6 +83,7 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://claroty.com/team82/research/attention-high-voltage-exploring-the-attack-surface-of-the-rockwell-automation-powermonitor-1000
 - https://claroty.com/team82/research/cascading-chaos-a-got-oriented-exploit-story
 - https://claroty.com/team82/research/turning-camera-surveillance-on-its-axis
+- https://claroty.com/team82/research/roaring-access-exploiting-a-pre-auth-root-rce-on-sixnet-rtus
 
 
 
